@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% include header-home.html %}
+<div class="container-home">
+    {{ content }}
+
+    {% for post in site.posts %}
+        <section class="art-heading">
+            <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
+            <span class="art-date">{% include post-date.html date=post.date %}</span>
+            {% for category in post.categories %}
+                <a href="#" class="category">{{ category }}</a>
+            {% endfor %}
+        </section>
+    </li>
+    {% endfor %}
+</div>
+{% include footer.html %}

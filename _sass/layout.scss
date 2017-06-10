@@ -1,0 +1,336 @@
+#header-strip {
+    height: 40px;
+
+    background-color: $colour-secondary;
+
+    span {
+        float: right;
+
+        line-height: 40px;
+
+        color: rgba(255, 255, 255, 0.35);
+        font-size: 1rem;
+
+        a {
+            font-weight: $semi-bold;
+            color: inherit;
+            font-size: 1rem;
+            text-decoration: none;
+
+            @include transition(color 0.4s);
+
+            &:hover {
+                color: white;
+            }
+        }
+    }
+}
+
+#hero {
+    height: 240px;
+
+    background-color: $colour-primary;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    width: 400px;
+    height: 100px;
+
+    margin-bottom: 16px;
+
+    background-image: url(../assets/digiliv_logo.svg);
+
+    @extend %text-hidden;
+}
+
+.claim {
+    width: 512px;
+    height: 18px;
+
+    background-image: url(../assets/digiliv_claim.svg);
+
+    @extend %text-hidden;
+}
+
+.art-heading {
+    min-height: 36px;
+
+    line-height: 36px;
+
+    margin: 24px 0;
+
+    .art-date {
+        display: inline-block;
+        height: inherit;
+
+        padding-left: 10px;
+        border-left: 2px solid $medium-gray;
+
+        font-size: 1.25rem;
+        font-weight: $semi-bold;
+        color: $light-gray;
+    }
+
+    h1 {
+        display: inline;
+
+        margin-right: 12px;
+
+        a {
+            font-size: 1.625rem;
+            font-weight: $semi-bold;
+            text-decoration: none;
+            color: $colour-primary;
+
+            &:hover {
+                color: $colour-secondary;
+            }
+        }
+    }
+}
+
+.art-info {
+    font-size: 1.125rem;
+
+    margin: 0.6em 0 1.2em 0;
+
+    line-height: 33px;
+
+    a.category {
+        font-size: 1rem;
+
+        background-color: $colour-secondary;
+
+        margin-left: 0;
+        margin-right: 0.75em;
+
+        &:hover {
+            color: white;
+
+            background-color: $light-gray;
+        }
+    }
+}
+
+.art-date {
+    color: $colour-primary;
+}
+
+.read-time {
+    color: $dark-gray;
+
+    margin-left: 1.2em;
+}
+
+article {
+    padding: 1.3rem 0;
+
+    color: $text-dark;
+
+    a {
+        color: $colour-secondary;
+
+        &:hover {
+            color: $colour-primary;
+        }
+    }
+
+    h2 {
+        margin: 1.3em 0 0.8em 0;
+
+        font-weight: $semi-bold;
+    }
+
+    p {
+        line-height: 1.5em;
+
+        margin-bottom: 1em;
+
+        font-size: 1.25rem;
+        font-weight: $regular;
+
+        &:last-of-type {
+            margin-bottom: 0.4em;
+        }
+    }
+}
+
+#about {
+    @include center(800px);
+
+    padding: 1.6em 0;
+
+    font-size: 1.25rem;
+    font-weight: $light;
+
+    b {
+        font-weight: $semi-bold;
+    }
+
+    p {
+        margin-bottom: 0.9em;
+
+        &.follow {
+            margin-bottom: 0.4em !important;
+
+            font-style: italic;
+        }
+
+        &.here-for-you {
+            font-weight: $semi-bold;
+        }
+
+        &:last-of-type {
+            margin-bottom: 0;
+        }
+    }
+}
+
+a.btn-social {
+    display: inline-block;
+
+    padding: 0 10px;
+    margin-right: 6px;
+
+    color: $colour-secondary;
+    line-height: 28px;
+    font-size: 1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    @include border-radius(3px);
+    background-color: rgba(255, 255, 255, 0.6);
+
+    @include transition(background-color 0.2s, color 0.2s);
+
+    svg {
+        position: relative;
+        bottom: 2px;
+
+        margin-right: 6px;
+
+        vertical-align: middle;
+
+        fill: currentColor; 
+    }
+
+    &.facebook svg {
+        bottom: 0;
+        vertical-align: bottom;
+    }
+
+    &:hover {
+        background-color: rgba(255, 255, 255, 0.15);
+        color: rgba(255, 255, 255, 0.6);
+    }
+}
+
+.bio {
+    display: flex;
+
+    margin-bottom: 32px;
+}
+
+.photo {
+    width: 120px;
+    height: 120px;
+
+    flex: 0 0 auto;
+
+    background-color: $colour-primary;
+}
+
+.right {
+    padding-left: 20px;
+}
+
+#copyleft {
+    height: 48px;
+    line-height: 48px;
+
+    background-color: $colour-primary;
+
+    text-align: center;
+
+    font-size: 1.125rem;
+
+    a {
+        color: rgba(255, 255, 255, 0.4);
+        font-weight: $light;
+        text-decoration: none;
+
+        b {
+            font-weight: $regular;
+        }
+    }
+
+}
+
+a.back {
+    position: relative;
+    right: 0;
+
+    @include transition(right 0.8s);
+
+    &:hover {
+        right: 12px;
+    }
+}
+
+a.category {
+    padding: 6px 12px;
+    margin-left: 12px;
+
+    color: white;
+    text-decoration: none;
+
+    @include transition(background-color 0.3s);
+    background-color: $light-gray;
+
+    &:hover {
+        background-color: $colour-secondary;
+    }
+}
+
+header.page {
+    #hero {
+        height: 130px;
+
+        .logo {
+            width: 280px;
+            height: 70px;
+
+            margin-bottom: 0;
+        }
+    }
+
+    #header-strip a {
+        line-height: 40px;
+
+        color: white;
+        font-size: 1rem;
+        font-weight: $semi-bold;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+}
+
+footer {
+    background-color: $colour-secondary;
+
+    color: rgba(255, 255, 255, 0.6);
+
+    a {
+        color: inherit;
+        font-weight: $semi-bold;
+
+        &:hover {
+            text-decoration: none;
+        }
+    }
+}
