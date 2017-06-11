@@ -40,7 +40,14 @@ b, strong {
 
 img.center {
     display: block;
-    margin: 0 auto;
+
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+
+    max-width: 1200px;
+
+    @include box-shadow(0px 0px 6px 0px rgba(0,0,0,0.5));
 }
 
 .container-content {

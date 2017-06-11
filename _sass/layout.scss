@@ -158,6 +158,18 @@ article {
             margin-bottom: 0.4em;
         }
     }
+
+    ul {
+        list-style-type: disc;
+
+        font-size: 1.25rem;
+
+        padding-left: 2em;
+
+        li {
+            margin-bottom: 0.8em;
+        }
+    }
 }
 
 #about {
@@ -210,7 +222,7 @@ a.btn-social {
 
     svg {
         position: relative;
-        bottom: 2px;
+        bottom: 1px;
 
         margin-right: 6px;
 
@@ -242,7 +254,11 @@ a.btn-social {
 
     flex: 0 0 auto;
 
-    background-color: $colour-primary;
+    opacity: 0.9;
+
+    @include border-radius(4px);
+
+    background-image: url(../assets/avatar.jpg);
 }
 
 .right {

@@ -2,8 +2,11 @@
 @import "variables/font-weights.scss";
 
 @import "mixins/rounded-corners.scss";
+@import "mixins/shadows.scss";
 @import "mixins/text.scss";
 @import "mixins/transition.scss";
+
+@import "pygments/pygments.scss";
 
 @import "reset.scss";
 @import "jeet/index.scss";
