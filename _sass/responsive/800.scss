@@ -1,0 +1,22 @@
+@media (max-width: 800px) {
+    .art-heading {
+        margin: 2.5em 0;
+    }
+
+    .art-date, .read-time {
+        display: block;
+        margin: 0;
+    }
+
+    .art-date {
+        margin-top: 0.4em;
+    }
+
+    .container-content {
+        padding: 12px 1.6em 24px 1.6em;
+    }
+
+    #about {
+        padding: 1.6em;
+    }
+}

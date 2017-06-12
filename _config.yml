@@ -11,8 +11,9 @@ permalink: /:categories/:title.html
 responsive_image:
   template: _includes/img.html
   sizes:
-    - width: 1200
+    - width: 1000
   output_path_format: assets/%{dirname}/%{width}/%{basename}
+js_dest: /js
 
 # Build settings
 markdown: kramdown
@@ -21,6 +22,7 @@ gems:
   - jekyll-responsive-image
   - liquid_reading_time
   - jekyll-sitemap
+  - jekyll-coffeescript
 exclude:
   - Gemfile
   - Gemfile.lock

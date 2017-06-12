@@ -1,12 +1,13 @@
 #header-strip {
     height: 40px;
+    line-height: 40px;
 
     background-color: $colour-secondary;
 
     span {
         float: right;
 
-        line-height: 40px;
+        line-height: inherit;
 
         color: rgba(255, 255, 255, 0.35);
         font-size: 1rem;
@@ -26,6 +27,40 @@
     }
 }
 
+#header-strip-back{
+    height: 40px;
+    line-height: 40px;
+
+    background-color: $colour-secondary;
+
+    @include transition(none);
+
+    a {
+        line-height: inherit;
+
+        color: white;
+        font-size: 1rem;
+        font-weight: $semi-bold;
+        text-decoration: none;
+        text-transform: uppercase;
+    }
+
+    &.sticky {
+        position: fixed;
+
+        height: 60px;
+        line-height: 60px;
+        width: 100%;
+        
+        top: 0;
+
+        z-index: 999;
+
+        @include transition(height 0.4s, line-height 0.4s);
+        @include box-shadow(0px 0px 12px 0px rgba(0,0,0,0.5));
+    }
+} 
+
 #hero {
     height: 240px;
 
@@ -41,8 +76,6 @@
     width: 400px;
     height: 100px;
 
-    margin-bottom: 16px;
-
     background-image: url(../assets/digiliv_logo.svg);
 
     @extend %text-hidden;
@@ -52,23 +85,27 @@
     width: 512px;
     height: 18px;
 
+    margin-top: 16px;
+
     background-image: url(../assets/digiliv_claim.svg);
 
     @extend %text-hidden;
 }
 
 .art-heading {
-    min-height: 36px;
+    min-height: 2.25em;
 
-    line-height: 36px;
+    line-height: 2.25em;
 
-    margin: 24px 0;
+    margin: 1.5em 0;
 
     .art-date {
         display: inline-block;
         height: inherit;
 
-        padding-left: 10px;
+        padding-left: 0.5em;
+        margin: 0 0.75rem 0 0;
+
         border-left: 2px solid $medium-gray;
 
         font-size: 1.25rem;
@@ -79,7 +116,7 @@
     h1 {
         display: inline;
 
-        margin-right: 12px;
+        margin-right: 0.75rem;
 
         a {
             font-size: 1.625rem;
@@ -94,6 +131,12 @@
     }
 }
 
+.art-date {
+    margin-left: 0.75em;
+
+    color: $colour-primary;
+}
+
 .art-info {
     font-size: 1.125rem;
 
@@ -102,12 +145,7 @@
     line-height: 33px;
 
     a.category {
-        font-size: 1rem;
-
         background-color: $colour-secondary;
-
-        margin-left: 0;
-        margin-right: 0.75em;
 
         &:hover {
             color: white;
@@ -115,10 +153,6 @@
             background-color: $light-gray;
         }
     }
-}
-
-.art-date {
-    color: $colour-primary;
 }
 
 .read-time {
@@ -299,8 +333,10 @@ a.back {
 }
 
 a.category {
-    padding: 6px 12px;
-    margin-left: 12px;
+    padding: 0.375em 0.75em;
+    margin-left: 0.75rem;
+
+    font-size: 1rem;
 
     color: white;
     text-decoration: none;
@@ -310,6 +346,10 @@ a.category {
 
     &:hover {
         background-color: $colour-secondary;
+    }
+
+    &:first-of-type {
+        margin-left: 0;
     }
 }
 
@@ -323,16 +363,6 @@ header.page {
 
             margin-bottom: 0;
         }
-    }
-
-    #header-strip a {
-        line-height: 40px;
-
-        color: white;
-        font-size: 1rem;
-        font-weight: $semi-bold;
-        text-decoration: none;
-        text-transform: uppercase;
     }
 }
 
