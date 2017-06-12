@@ -17,6 +17,8 @@ js_dest: /js
 
 # Build settings
 markdown: kramdown
+sass:
+  style: compressed
 gems:
   - jekyll-feed
   - jekyll-responsive-image

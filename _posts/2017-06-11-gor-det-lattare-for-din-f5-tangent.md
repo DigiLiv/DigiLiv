@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Gör det lättare för din F5 tangent – använd Browsersync!
+date:   2017-06-11 22:00:00 +0200
 categories: Webbutveckling
 ---
 
@@ -61,7 +62,7 @@ Browsersync innehåller dessutom extra funktioner som ska kanske hjälpa oss med
 
 En av de funktionerna är att Browsersync kan **markera alla HTML elementer på sidan med en kontur**, eller även **lägga till skuggor till dem – som ska beteckna djupet (dvs. z-koordinat) av varje element**. Till slut kan den visa ett **rutnät över hela webbsidan** (som kan hjälpa oss till att positionera individuella element).
 
-Här kan du kolla ut hur ska det se ut med alla optionerna på samtidigt :-)
+Här kan du observera hur ska det se ut med alla optionerna på samtidigt :-)
 
 {% responsive_image path: assets/imgs/gor-det-lattare-for-din-f5-tangent/browsersync_css.png %}
 
