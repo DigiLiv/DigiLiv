@@ -2,7 +2,7 @@
 layout: post
 title: Gör det lättare för din F5 tangent – använd Browsersync!
 date:   2017-06-11 22:00:00 +0200
-categories: Webbutveckling
+categories: webbutveckling
 ---
 
 Om vi skapar eller anpassar front-end av webbsidor genom att editera HTML/CSS källor, det är många gånger som vi måste uppdatera sidorna i vår webbläsare – så att vi kan granska ändringarna. Men varför inte automatisera det?

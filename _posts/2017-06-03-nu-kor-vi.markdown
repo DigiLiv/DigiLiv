@@ -2,7 +2,7 @@
 layout: post
 title:  "Nu kör vi! DigiLiv.se är en ny blogg om teknik för alla människor"
 date:   2017-06-03 17:00:00 +0200
-categories: [Bloggen]
+categories: bloggen
 ---
 Hallå världen och välkommna till en ny "*digiblogg*"!
 

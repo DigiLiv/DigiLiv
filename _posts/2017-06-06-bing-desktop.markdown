@@ -2,7 +2,7 @@
 layout: post
 title:  "Bing Desktop – en ny backgrundbild till ditt skrivbord varje dag"
 date:   2017-06-06 22:00:00 +0200
-categories: [Tips]
+categories: tips
 ---
 
 Du vet kanske redan om inte-så-nyttig Microsofts webb sökmotor [Bing.com](http://www.bing.com/) som alla har hört om men ingen riktigt använder. Trots att den inte kommer att hjälpa oss med våra alldagliga "webbsökbehov", den har fortfarande ett annat ess i rockärmen – *vackra (och också tematiska – som nyttår, påsk, jul osv. – om det gäller) dagliga foton som är, i majoritet, bara glädje att titta på*. 
