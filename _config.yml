@@ -28,3 +28,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - build_production.bat

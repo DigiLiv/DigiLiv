@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 10 S – är det den rätta vägen?
-date:   2017-06-13 23:50:00 +0200
+date:   2017-06-13 23:40:00 +0200
 categories: [asikter, windows]
 ---
 
@@ -16,14 +16,14 @@ Det hade funnits redan en version av Windows som tillät att köra endast Window
 *Windows RT också [misslyckats](http://pcforalla.idg.se/2.1054/1.535492/microsoft-bekraftar-windows-rts-dod){:target="_blank"} [totalt](http://pctidningen.se/program/windows-rt-i-praktiken-dod){:target="_blank"}, men låt oss avvika från det där ämnet :-)*
 
 Men med Windows 10 S är situationen en lite annorlunda. **Systemet är låst ner till apparna från Windows Store som ett "design beslut" – så att bara de verifierade apparna kan instelleras (och sålunda får tredjepartsappar ingen chans att göra skada eller sakta ned datorn genom att köra krävande bakgrundsprocesser).**  
-Det liknar Googles [Chrome OS](https://sv.wikipedia.org/wiki/Chrome_OS){:target="_blank"} en lite – vilken presenteras som ett lätt och snabbt system där man kan konsumera innehål och förbli i kontakt med sina vänner och andra människor via internetet (det hela operativsystemet är egentligen en "glorifierad webbläsare") – men inte mycket mer än detta. 
+Det liknar Googles [Chrome OS](https://sv.wikipedia.org/wiki/Chrome_OS){:target="_blank"} en lite – vilken presenteras som ett lätt och snabbt system där man kan konsumera innehåll och förbli i kontakt med sina vänner och andra människor via internetet (det hela operativsystemet är egentligen en "glorifierad webbläsare") – men inte mycket mer än detta. 
 
 ## För vem är Windows 10 S passande?
 
 Resultatet är att man har en snabb och ganska säker miljö där kan man surfa på webben, lyssna på musik, kolla på filmer, skriva till vänner – utan att oroa sig onödigt över hur operativsystemet fungerar eller gripa sig an olika förvirrande inställningar.  
 Låter bra ut när det gäller enheter som man använder endast för att konsumera innehål på webben eller utbyta information och diskutera med andra människor. **Jag ska säga att Windows 10 S är ett bra operativsystem för prylar som surfplattor eller billiga bärbara datorer.**
 
-Men det också väcker en fråga – *varför Microsoft erbjuder detta system i sitt nya kraftfulla och magnifika flaggskepp bland barbära datorer, den nya [Surface Laptop](https://www.microsoft.com/sv-se/surface/devices/surface-laptop/overview){:target="_blank"}, som standard?*
+Men det också väcker en fråga – *varför Microsoft erbjuder detta system i sitt nya kraftfulla och magnifika flaggskepp bland bärbara datorer, den nya [Surface Laptop](https://www.microsoft.com/sv-se/surface/devices/surface-laptop/overview){:target="_blank"}, som standard?*
 
 Det bara är så att man köper en ny, skinande Surface Laptop (för gudomligt mycket pengar) och det första man inser är att endast Windows Store appar kan användas och att det går inte att instalera vanliga programm man är van vid.  
 *Och vad är dessutom lämpligt att omtala – Windows Store har stor brist på antalet appar (särskilt när den jamförs med appbutiker i andra sådana operativssystem som Android och iOS), antalet appar av hög kvalitet och antalet appar som är egentligen användbar. Så här har du det... Och det säger jag, som är ju en stor Microsoft anhängare – eftersom det är bara den sorgliga sanningen :-/*

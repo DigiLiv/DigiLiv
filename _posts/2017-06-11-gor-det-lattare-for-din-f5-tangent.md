@@ -49,7 +49,7 @@ Så här enkelt startar du servern och meddelar den om vilka filer ska servern o
 
 Detta är outputen som vi ska se efter att vi kör kommandot ovan. Vi kan se två "Access URLs":
 
-* Den första, ***http://localhost:3000*** är en ingångspunkten för vår webbsida – sidan ska också uppdateras automatiskt
+* Den första, ***http://localhost:3000*** är ingångspunkten för vår webbsida – sidan ska också uppdateras automatiskt
 * Den andra, ***http://localhost:3001*** är en webbpannel genom den kan vi granska statusen på Browsersync och ändra inställningarna
 
 {% responsive_image path: assets/imgs/gor-det-lattare-for-din-f5-tangent/browsersync_dash.png %}
@@ -66,4 +66,4 @@ Här kan du observera hur ska det se ut med alla optionerna på samtidigt :-)
 
 {% responsive_image path: assets/imgs/gor-det-lattare-for-din-f5-tangent/browsersync_css.png %}
 
-Andra alternativ kan t.ex. begränsa (bara som en simulering inom Browsersync) anslutningshastighet så att vi kan testa hur ska vår sida behöva vid en langsam internetanslutning. Också ganska nyttig!
+Andra alternativ kan t.ex. begränsa (bara som en simulering inom Browsersync) anslutningshastighet så att vi kan testa hur ska vår sida behöva vid en långsam internetanslutning. Också ganska nyttig!
