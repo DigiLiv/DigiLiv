@@ -175,9 +175,17 @@ article {
     }
 
     h2 {
-        margin: 1.3em 0 0.8em 0;
+        margin: 1.1em 0 0.5em 0;
 
         font-weight: $semi-bold;
+
+        & + h3 {
+            margin-top: 1em;
+        }
+    }
+
+    h3 {
+        margin: 1.5em 0 0.75em 0;
     }
 
     p {
@@ -188,8 +196,12 @@ article {
         font-size: 1.25rem;
         font-weight: $regular;
 
-        &:last-of-type {
+        &:last-child {
             margin-bottom: 0.4em;
+        }
+
+        & + iframe {
+            margin-top: -0.6em;
         }
     }
 
