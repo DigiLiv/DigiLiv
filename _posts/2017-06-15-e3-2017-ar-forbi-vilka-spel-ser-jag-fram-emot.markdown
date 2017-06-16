@@ -11,7 +11,7 @@ Världens storsta videospelkonferens E3 (eller *Electronic Entertainment Expo*) 
 
 ### Star Wars Battlefront 2
 
-Det verkar som detta ska vara ett riktigt spännande spel och en mycket bättre utgåva än den första Battlefront:en av den "nya generationen" från 2015 (vilken jag har inte spelt än, eftersom jag blev inte mycket inresserad av den, men jag kan föreställa mig att spela den andra). När jag såg trailern till Battlefront 2 så tyckte jag att detta är ett spel som jag måste verkligen ha.  
+Det verkar som detta ska vara ett riktigt spännande spel och en mycket bättre utgåva än den första Battlefront:en av den "nya generationen" från 2015 (vilken jag har inte spelat än, eftersom jag blev inte mycket inresserad av den, men jag kan föreställa mig att spela den andra). När jag såg trailern till Battlefront 2 så tyckte jag att detta är ett spel som jag måste verkligen ha.  
 *Verkar som om att det ska vara dags för mig att äntligen köpa en ny dator (min nuvarande dator köpte jag år 2013 och även då var det bara en budget-dator – jag har Intel Pentium G2030 processor, 8 GB RAM minne och Radeon HD 7850 som grafikkortet, så det blir tydligt att jag ska inte kunna spela den nya Battlefront:en med den :-)), då spelet ser grafiskt väldigt bra ut och jag vill riktigt spela det.*
 
 Detta är en gameplay video som visar oss en strid på gator av staden Theed på planeten Naboo:
