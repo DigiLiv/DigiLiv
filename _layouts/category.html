@@ -2,16 +2,15 @@
 layout: default
 ---
 
-{% include header-home.html %}
-<div class="container-home">
-    {{ content }}
-
-    {% for post in site.posts %}
+{% include header-page.html %}
+<div class="container-content">
+    <h1>Artiklar i kategorin "{% include category.html category=page.title %}"</h1>
+    {% for post in page.posts %}
         <section class="art-heading">
             <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
             <span class="art-date">{% include post-date.html date=post.date %}</span>
             {% for category in post.categories %}
-                {% include link-category-archive.html category=category %}
+                <a href="#" class="category">{% include category.html category=category %}</a>
             {% endfor %}
         </section>
     </li>

@@ -27,5 +27,5 @@
         <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
         <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-        <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+        <title>{% if page.title %}{% if page.layout == "category" %}{% include category.html category=page.title %}{% else %}{{ page.title | escape }}{% endif %} | {% endif %}{{ site.title | escape }}</title>
     </head>

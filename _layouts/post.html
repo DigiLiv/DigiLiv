@@ -8,7 +8,7 @@ layout: default
         <h1>{{ page.title | escape }}</h1>
         <div class="art-info">
             {% for category in page.categories %}
-                <a href="#" class="category">{% include category.html category=category %}</a>
+                {% include link-category-archive.html category=category %}
             {% endfor %}
             <span class="art-date">{% include post-date.html date=page.date %}</span>
             {% include reading-time.html %}

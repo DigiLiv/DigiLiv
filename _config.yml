@@ -14,6 +14,13 @@ responsive_image:
     - width: 1000
   output_path_format: assets/%{dirname}/%{width}/%{basename}
 js_dest: /js
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: category
+  permalinks:
+    category: '/kategori/:name/'
 
 # Build settings
 markdown: kramdown
@@ -25,6 +32,7 @@ gems:
   - liquid_reading_time
   - jekyll-sitemap
   - jekyll-coffeescript
+  - jekyll-archives
 exclude:
   - Gemfile
   - Gemfile.lock
