@@ -3,26 +3,26 @@
     line-height: 40px;
 
     background-color: $colour-secondary;
+}
 
-    span {
-        float: right;
+.mail-me {
+    float: right;
 
-        line-height: inherit;
+    line-height: inherit;
 
-        color: rgba(255, 255, 255, 0.35);
+    color: rgba(255, 255, 255, 0.35);
+    font-size: 1rem;
+
+    a {
+        font-weight: $semi-bold;
+        color: inherit;
         font-size: 1rem;
+        text-decoration: none;
 
-        a {
-            font-weight: $semi-bold;
-            color: inherit;
-            font-size: 1rem;
-            text-decoration: none;
+        @include transition(color 0.4s);
 
-            @include transition(color 0.4s);
-
-            &:hover {
-                color: white;
-            }
+        &:hover {
+            color: white;
         }
     }
 }
@@ -253,8 +253,6 @@ article {
         margin-bottom: 0.9em;
 
         &.follow {
-            margin-bottom: 0.4em !important;
-
             font-style: italic;
         }
 
@@ -266,6 +264,10 @@ article {
             margin-bottom: 0;
         }
     }
+}
+
+.btns-social {
+    line-height: 36px;
 }
 
 a.btn-social {
@@ -365,7 +367,7 @@ a.back {
 
 a.category {
     padding: 0.375em 0.75em;
-    margin-left: 0.75rem;
+    margin-right: 0.75rem;
 
     font-size: 1rem;
 
@@ -379,8 +381,8 @@ a.category {
         background-color: $colour-secondary;
     }
 
-    &:first-of-type {
-        margin-left: 0;
+    &:last-of-type {
+        margin-right: 0;
     }
 }
 
@@ -412,7 +414,7 @@ footer {
     }
 }
 
-.container-content>h1 {
+.container-content > h1 {
     margin-top: 0.625em;
 
     font-size: 2rem;

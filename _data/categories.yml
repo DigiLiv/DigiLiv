@@ -15,3 +15,9 @@ asikter:
 
 spel:
   name: Spel
+
+nyheter:
+  name: Nyheter
+
+linux:
+  name: Linux

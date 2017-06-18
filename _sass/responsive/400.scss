@@ -1,0 +1,13 @@
+@media (max-width: 400px) {
+    .container-header {
+        text-align: center;
+    }
+
+    .mail-me {
+        float: none;
+
+        span {
+            display: none;
+        }
+    }
+}

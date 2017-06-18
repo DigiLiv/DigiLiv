@@ -68,4 +68,6 @@ img.center {
 
 .container-header {
     @include center(800px, 1em);
+
+    overflow: hidden;
 }

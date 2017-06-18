@@ -1,6 +1,11 @@
 @media (max-width: 600px) {
     #hero {
-        height: 200px;
+        height: 35vw;
+    }
+
+    .logo {
+        width: 70vw;
+        height: 17.5vw;
     }
 
     .claim {
@@ -18,5 +23,9 @@
 
     .right {
         padding-left: 0;
+    }
+
+    .container-home {
+        padding: 0 1.6em;
     }
 }
