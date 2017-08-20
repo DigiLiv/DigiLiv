@@ -9,9 +9,6 @@ layout: default
         <section class="art-heading">
             <h1><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h1>
             <span class="art-date">{% include post-date.html date=post.date %}</span>
-            {% for category in post.categories %}
-                <a href="#" class="category">{% include category.html category=category %}</a>
-            {% endfor %}
         </section>
     </li>
     {% endfor %}
