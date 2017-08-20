@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nya Ryzen processorer från AMD – borde jag köpa en?
-date:   2017-08-20 21:00:00 +0100
+date:   2017-08-20 20:00:00 +0200
 categories: asikter hardvara
 ---
 
