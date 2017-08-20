@@ -21,3 +21,6 @@ nyheter:
 
 linux:
   name: Linux
+
+hardvara:
+  name: Hårdvara
