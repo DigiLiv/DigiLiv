@@ -24,3 +24,6 @@ linux:
 
 hardvara:
   name: Hårdvara
+
+webb:
+  name: Webb
