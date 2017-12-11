@@ -7,7 +7,7 @@ lang: "sv"
 facebook_username: digiliv
 twitter_username: digilivse
 github_username:  jekyll
-permalink: /:categories/:title.html
+permalink: /:title
 responsive_image:
   template: _includes/img.html
   sizes:

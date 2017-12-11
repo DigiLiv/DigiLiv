@@ -1,3 +1,14 @@
 {% assign largest = resized | sort: 'width' | last | default: original %}
 
-<img src="/{{ largest.path }}" alt="{{ alt }}" class="center">
+<figure>
+    {% if link %}<a href="{{ link }}">{% endif %}
+    <img src="/{{ largest.path }}" alt="{{ alt }}" class="center">
+    {% if link %}</a>{% endif %}
+    {% if label %}
+        <figcaption>
+            {{ label }}
+            {% if source_link %}
+                ({{ site.data.strings.image_source }}: <a href="{{ source_link }}">{% if source_caption %}{{ source_caption }}{% else %}{{ source_link }}{% endif %}</a>)
+            {% endif %}
+        </figcaption>{% endif %}
+</figure>

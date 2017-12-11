@@ -25,7 +25,7 @@ Här är några av de mest populära statiska generatorerna som finns:
 * **[Gatsby](https://www.gatsbyjs.org/)**
 * *och flera andra, som du hittar t.ex. [här](https://www.staticgen.com/)*
 
-{% responsive_image path: assets/imgs/bruka-en-statisk-generator/hugo.png link: <https://gohugo.io/> %}
+{% responsive_image path: assets/imgs/bruka-en-statisk-generator/hugo.png link: https://gohugo.io/ %}
 
 ## En duktig lösning, men inte för alla
 
