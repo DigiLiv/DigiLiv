@@ -5,7 +5,7 @@ date: 2017-12-11 19:00:00 +0200
 categories: tips hardvara
 ---
 
-Det är bara några månader sedan [jag sagt att jag tänkte bygga mig en ny dator](https://digiliv.se/ryzen-processorer-borde-jag-kopa-en) som ska köra nya spel (t.ex. den nya Star Wars Battlefront:en). Nu ska det snart bli jul, vilken verkar som en perfekt tid att äntligen komma fram med det. Eller är det verkligen så?
+Det är bara några månader sedan [jag sagt att jag tänkte bygga mig en ny dator](https://digiliv.se/asikter/hardvara/ryzen-processorer-borde-jag-kopa-en) som ska köra nya spel (t.ex. den nya Star Wars Battlefront:en). Nu ska det snart bli jul, vilken verkar som en perfekt tid att äntligen komma fram med det. Eller är det verkligen så?
 
 ## Slaget mellan Intel och AMD bara börjar (på nytt)
 
