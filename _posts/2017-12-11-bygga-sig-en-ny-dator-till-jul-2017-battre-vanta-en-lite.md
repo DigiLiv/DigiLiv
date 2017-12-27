@@ -28,4 +28,4 @@ I slutet av förra året (2016) såg vi också RAM minne (och SSD hårddisker) g
 
 ## Som en tålmodig människa skall jag fortfarande vänta
 
-Trots att det är hög tid för mig att byta ut min åldrande dator mot en ny, tänker jag att fortfarande vänta med det. Självklart, **om man längtar efter en ny dator så snart som möjligt (eller vill ha en fin julklapp åt sig själv), då är det ingen mening med att vänta längre**. Men för oss andra är det kanske bättre att hålla ut och se fram emot det som kommer det nästa år :-)
+Trots att det är hög tid för mig att byta ut min åldrande dator mot en ny, tänker jag att fortfarande vänta med det. Självklart, **om man längtar efter en ny dator så snart som möjligt (eller vill ha en fin julklapp åt sig själv), då är det ingen mening med att vänta längre**. Men för oss andra är det kanske bättre att hålla ut och se fram emot det som kommer nästa år :-)
