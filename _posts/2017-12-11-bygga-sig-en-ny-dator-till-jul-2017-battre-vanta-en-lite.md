@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bygga en ny dator till jul 2017? Bättre att vänta en lite!
+title: Bygga en ny dator till jul 2017? Bättre att vänta lite!
 date: 2017-12-11 19:00:00 +0200
 categories: tips hardvara
 ---
