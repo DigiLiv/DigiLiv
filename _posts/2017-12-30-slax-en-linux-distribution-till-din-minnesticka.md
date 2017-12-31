@@ -44,4 +44,4 @@ Slax 9.3.0 är baserad på Debian Stretch, då kan du [bläddra bland Stretch:s 
 
 ## Prova Slax om du vill
 
-Det är helt enkelt att försöka Slax själv – **det är bara att [lada ned ditributionens ISO-fil från projektets hemsida](https://www.slax.org/), sedan lagra den upp på en ledig minnesticka och följa instruktioner i README filen som finns inne i ISO-arkivet (så att du kan göra minnestickan bootbar)**. Allt är redo då. Det bara återstår att koppla minnesticka till en dator som du vill bruka med Slax, starta den och välja att boota från minnestickan. Färdig :-)
+Det är helt enkelt att prova Slax själv – **det är bara att [lada ned ditributionens ISO-fil från projektets hemsida](https://www.slax.org/), sedan lagra den upp på en ledig minnesticka och följa instruktioner i README filen som finns inne i ISO-arkivet (så att du kan göra minnestickan bootbar)**. Allt är redo då. Det bara återstår att koppla minnesticka till en dator som du vill bruka med Slax, starta den och välja att boota från minnestickan. Färdig :-)
