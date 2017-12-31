@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slax 9 - ett super-lätt operativsystem till din minnesticka
+title: Slax 9 – ett super-lätt operativsystem till din minnesticka
 date: 2017-12-30 19:00:00 +0200
 categories: tips linux
 ---
