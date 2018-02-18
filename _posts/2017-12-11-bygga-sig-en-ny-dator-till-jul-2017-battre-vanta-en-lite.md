@@ -9,8 +9,8 @@ Det är bara några månader sedan [jag sagt att jag tänkte bygga mig en ny dat
 
 ## Slaget mellan Intel och AMD bara börjar (på nytt)
 
-Året 2017 medförde många stora ändringar på processormarknaden, ända sedan den nya Ryzen processor-linjen släpptes ut av AMD. **Ryzen visade sig vara en riktig spelväxlare, eftersom den införde sex-kärniga processorer på konsumentmarknaden** (där hade vi sett bara fyr-kärniga processorer i tio år, sen Core 2 Quad lanserades år 2007) i mars 2017. 
-Det är självklart att AMDs största motstandare kunde inte ge upp utan en kamp, så Intel kom med ett svar i form av Coffee Lake linje.
+Året 2017 medförde många stora ändringar på processormarknaden, ända sedan den nya Ryzen processor-linjen släpptes ut av AMD. **Ryzen visade sig vara en riktig spelväxlare, eftersom den införde sex-kärniga processorer på konsumentmarknaden** (där hade vi sett bara fyr-kärniga processorer i tio år, sen Core 2 Quad lanserades år 2007) i mars 2017.
+Det är självklart att AMDs största motståndare kunde inte ge upp utan en kamp, så Intel kom med ett svar i form av Coffee Lake linje.
 
 Cofee Lake verkar som ett väldigt mycket konkurrenskraftigt alternativ till Ryzen (särsk. för datorspelare), men ändå är det inte utan problem just nu – priserna på kompatibla moderkort är höga, eftersom bara högre linjer finns just nu på market (det ser ut som att Coffe Lake infördes på marknaden med kort varsel, som Intels snabbt svar på AMDs Ryzen). Billigare moderkort är vid horisonten – men de kommer inte förrän det nästa året. Och också Ryzen refresh kommer då, så den äldre, första, utgåvan kommer möjligtvis att krypa ner i priset. Det menar bara att **vi måste vänta åtm. till början av 2018 innan slaget mellan Intel och AMD tar full fart – och vi får bättre priser tack vare det.**
 
@@ -22,7 +22,7 @@ Detta år hade vi också en annan smäll – den här gången på marknaden med 
 
 Jag bara hoppas att priserna på grafikkort kommer att sänkas ned under den kommande tiden. **Kanske blir det också vara värt att vänta innan Nvidia kommer med [sin nya "Volta"](https://www.sweclockers.com/nyhet/23513-nvidias-grafikarkitektur-volta-kan-tillverkas-pa-12-nanometer-fran-tsmc) arkitektur nästa år** (som kan också driva ned priserna på äldre generationer av grafikkort). Vi ska se.
 
-I slutet av förra året (2016) såg vi också RAM minne (och SSD hårddisker) gå upp i pris – och de står kvar ganska hög till och med nu. Då är detta också en anledning varför det kanske blir bättre att vänta med att bygga en ny dator.
+I slutet av förra året (2016) såg vi också RAM minne (och SSD hårddiskar) gå upp i pris – och de står kvar ganska hög till och med nu. Då är detta också en anledning varför det kanske blir bättre att vänta med att bygga en ny dator.
 
 {% responsive_image path: assets/imgs/bygga-sig-en-ny-dator-till-jul-2017/hyperx_prisutveckling_prisjakt.png label: "Prisutveckling på ett slags RAM minne" source_link: https://www.prisjakt.nu/produkt.php?pu=2595328 source_caption: Prisjakt %}
 

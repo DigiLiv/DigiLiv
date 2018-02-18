@@ -5,7 +5,7 @@ date: 2017-12-30 19:00:00 +0200
 categories: tips linux
 ---
 
-I november 2017 några av oss kunde noticera återvändningen av Linux distribution Slax efter en lång period av projektets inaktivitet (vi hade inte sett en ny version i flera år, sedan 2013). Jag noticerade bara några dagar sedan, när informationen om en ny (del)version dykte upp på [DistroWatch](https://distrowatch.com/).
+I november 2017 några av oss kunde notisera återvändningen av Linux distribution Slax efter en lång period av projektets inaktivitet (vi hade inte sett en ny version i flera år, sedan 2013). Jag notiserade bara några dagar sedan, när informationen om en ny (del)version dykte upp på [DistroWatch](https://distrowatch.com/).
 
 {% responsive_image path: assets/imgs/slax-ett-operativsystem-till-din-minnesticka/bootskarm.png label: "Boot-skärmen med distributionens logo" %}
 
@@ -23,7 +23,7 @@ Och eftersom Slax också kräver inte mycket lagringsutrymme så ska även en ga
 
 ## Bara det viktigaste ingår
 
-Hur är det möjligt att den här Linux-distributionen är så liten i storlek? Anledningen är att **det finns bara få program förinstallerad** – en webbläsare, en textredigerare, en filhanterare och en kalkulator. Inte så många applikationer, men när allt kommer omkring är det allt man behöver att surfa på webben eller skriva anteckningar åt sig själv. 
+Hur är det möjligt att den här Linux-distributionen är så liten i storlek? Anledningen är att **det finns bara få program förinstallerad** – en webbläsare, en textredigerare, en filhanterare och en kalkylator. Inte så många applikationer, men när allt kommer omkring är det allt man behöver att surfa på webben eller skriva anteckningar åt sig själv. 
 
 {% responsive_image path: assets/imgs/slax-ett-operativsystem-till-din-minnesticka/programvaljare.png label: "Programväljaren med förinställda program" %}
 
