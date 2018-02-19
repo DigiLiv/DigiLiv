@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slax 9 – ett super-lätt operativsystem till din minnesticka
+title: Slax 9 – ett super-lätt operativsystem till din minnessticka
 date: 2017-12-30 19:00:00 +0200
 categories: tips linux
 ---
@@ -19,7 +19,7 @@ En stor fördel med Slax är att den behöver inte vara installerad på din dato
 
 {% responsive_image path: assets/imgs/slax-ett-operativsystem-till-din-minnesticka/hardvara-krav.png label: "Officiela hårdvara krav" source_link: https://www.slax.org/introduction.php source_caption: Slax.org %}
 
-Och eftersom Slax också kräver inte mycket lagringsutrymme så ska även en gammal och liten minnesticka väl räcka (*installationsmedian tar upp bara 256 MB*). 
+Och eftersom Slax också kräver inte mycket lagringsutrymme så ska även en gammal och liten minnessticka väl räcka (*installationsmedian tar upp bara 256 MB*). 
 
 ## Bara det viktigaste ingår
 
@@ -44,4 +44,4 @@ Slax 9.3.0 är baserad på Debian Stretch, då kan du [bläddra bland Stretch:s 
 
 ## Prova Slax om du vill
 
-Det är helt enkelt att prova Slax själv – **det är bara att [lada ned ditributionens ISO-fil från projektets hemsida](https://www.slax.org/), sedan lagra den upp på en ledig minnesticka och följa instruktioner i README filen som finns inne i ISO-arkivet (så att du kan göra minnestickan bootbar)**. Allt är redo då. Det bara återstår att koppla minnesticka till en dator som du vill bruka med Slax, starta den och välja att boota från minnestickan. Färdig :-)
+Det är helt enkelt att prova Slax själv – **det är bara att [lada ned ditributionens ISO-fil från projektets hemsida](https://www.slax.org/), sedan lagra den upp på en ledig minnessticka och följa instruktioner i README filen som finns inne i ISO-arkivet (så att du kan göra minnestickan bootbar)**. Allt är redo då. Det bara återstår att koppla minnessticka till en dator som du vill bruka med Slax, starta den och välja att boota från minnesstickan. Färdig :-)

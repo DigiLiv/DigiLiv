@@ -22,7 +22,7 @@ Detta år hade vi också en annan smäll – den här gången på marknaden med 
 
 Jag bara hoppas att priserna på grafikkort kommer att sänkas ned under den kommande tiden. **Kanske blir det också vara värt att vänta innan Nvidia kommer med [sin nya "Volta"](https://www.sweclockers.com/nyhet/23513-nvidias-grafikarkitektur-volta-kan-tillverkas-pa-12-nanometer-fran-tsmc) arkitektur nästa år** (som kan också driva ned priserna på äldre generationer av grafikkort). Vi ska se.
 
-I slutet av förra året (2016) såg vi också RAM minne (och SSD hårddiskar) gå upp i pris – och de står kvar ganska hög till och med nu. Då är detta också en anledning varför det kanske blir bättre att vänta med att bygga en ny dator.
+I slutet av förra året (2016) såg vi också RAM minne (och SSD hårddiskar) gå upp i pris – och de står kvar ganska högt till och med nu. Då är detta också en anledning varför det kanske blir bättre att vänta med att bygga en ny dator.
 
 {% responsive_image path: assets/imgs/bygga-sig-en-ny-dator-till-jul-2017/hyperx_prisutveckling_prisjakt.png label: "Prisutveckling på ett slags RAM minne" source_link: https://www.prisjakt.nu/produkt.php?pu=2595328 source_caption: Prisjakt %}
 
