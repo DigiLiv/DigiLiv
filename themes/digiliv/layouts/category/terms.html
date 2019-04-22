@@ -1,0 +1,10 @@
+{{- define "main" -}}
+<div class="container-content">
+    <h1>Lista över webbsidans kategorier</h1>
+    {{ range .Pages }}
+        <section class="art-heading">
+            <a href="{{ .Permalink }}" class="category">{{ .Title | markdownify }}</a>
+        </section>
+    {{ end }}
+</div>
+{{- end -}}

@@ -1,0 +1,17 @@
+{{- define "main" -}}
+    <div>
+        <div class="container-content">
+            <article>
+                <h1>{{ .Title }}</h1>
+                <div class="art-info">
+                    {{ range .Params.kategori }}
+                        {{ partial "links/category.html" . }}
+                    {{ end }}
+                    <span class="art-date">{{ partial "utils/date.html" (dict "Page" . "Date" .Date) }}</span>
+                    {{ partial "utils/reading-time.html" . }}
+                </div>
+                {{ .Content }}
+            </article>
+        </div>
+    </div>
+{{- end -}}

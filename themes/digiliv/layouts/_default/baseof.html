@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="sv">
+    {{- partial "head.html" . -}}
+    <body>
+        <main>
+            {{ if .IsHome }}
+                {{- partial "header-home.html" . -}}
+            {{ else }}
+                {{- partial "header-page.html" . -}}
+            {{ end }}
+            {{- block "main" . }}{{- end }}
+            {{- partial "footer.html" . -}}
+        </main>
+        {{- partial "scripts.html" . -}}
+    </body>
+</html>

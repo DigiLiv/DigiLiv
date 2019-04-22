@@ -1,0 +1,31 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+{{ $sourceCaption := .Get "sourceCaption" }}
+{{ $sourceLink := .Get "sourceLink" }}
+
+{{ $imageMaxWidth := 1000 }}
+{{ $imageQuality := 85 }}
+{{ $resampleFilter := "Lanczos"}}
+
+{{ $scratch := newScratch }}
+{{ $scratch.Set "image" (index (.Page.Resources.Match $src) 0) }}
+{{ if (gt ($scratch.Get "image").Width $imageMaxWidth) }}
+    {{ $scratch.Set "image" (($scratch.Get "image").Resize (printf "%dx q%d %s" $imageMaxWidth $imageQuality $resampleFilter)) }}
+{{ end }}
+{{ $image := $scratch.Get "image" }}
+
+{{ with $image }}
+    <figure>
+        <img src="{{ .RelPermalink }}" {{with $alt}}alt="{{ . }}"{{ end }}>
+
+        {{ with $caption }}
+            <figcaption>
+                {{ . }}
+                {{ with $sourceCaption }}
+                    (bildens källa: {{ with $sourceLink }}<a href="{{ . }}">{{ end }}{{ . }}{{ with $sourceLink }}</a>{{ end }})
+                {{ end }}
+            </figcaption>
+        {{ end }}
+    </figure>
+{{ end }}

@@ -1,0 +1,13 @@
+{{- define "main" -}}
+    <div class="container-home">
+        {{ range .Site.RegularPages }}
+        <section class="art-heading">
+            <h1><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h1>
+            <span class="art-date">{{ partial "utils/date.html" (dict "Page" $ "Date" .Date) }}</span>
+            {{ range .Params.kategori }}
+                {{ partial "links/category.html" . }}
+            {{ end }}
+        </section>
+        {{ end }}
+    </div>
+{{- end -}}

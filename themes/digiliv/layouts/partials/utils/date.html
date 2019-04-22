@@ -1,0 +1,2 @@
+{{ $months := .Page.Site.Data.utils.date.months }}
+{{.Date.Day}} {{ index $months (printf "%d" .Date.Month) }} {{.Date.Year}}
