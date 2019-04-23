@@ -5,13 +5,13 @@ kategori:
     - linux
 ---
 
-En ny version av Ubuntu (en av de mest använda GNU/Linux distributioner) är här ännu igen, så bestämde jag mig att jag skulle prova den i VirtualBox. Jag har inte använt Ubuntu i ett par år (just nu använder jag Void Linux som mitt dagligt operativsystem), därför är det nu ett bra tillfälle att kika på vad som har ändrat i Ubuntu under de senaste åren. Till en början måste jag säga – **den nya Ubuntu-versionen ser väldigt bra och användbart ut!**
+En ny version av Ubuntu (en av de mest använda GNU/Linux distributioner) är här ännu igen, så bestämde jag mig att jag skulle prova den i VirtualBox. Jag har inte använt Ubuntu i ett par år (just nu använder jag [Void Linux](https://voidlinux.org/) som mitt dagligt operativsystem), därför är det nu ett bra tillfälle att kika på vad som har ändrat i Ubuntu under de senaste åren. Till en början måste jag säga – **den nya Ubuntu-versionen ser väldigt bra och användbart ut!**
 
 Ubuntu 19.04 släpptes ut den 18 april 2019. Du kan ladda ned den helt kostnadsfritt på [Ubuntus hemsida](http://releases.ubuntu.com/19.04/).
 
 ## Låt oss installera
 
-{{< image src="start_ubuntu.png" caption="Prova eller installera?" >}}
+{{< image src="start_ubuntu.png" caption="Prova eller installera? Det är frågan :-)" >}}
 
 **Installeringsprocessen är riktigt snabbt och enkelt med Ubuntu 19.04.** Det har alltid varit så här, så inga överraskningar förekommer. Det är bara att välja ett språk, en tangentbordslayout och också vilken disk(er) ska Ubuntu installeras på. Sedan specificerar du vilken tidszon befinner vi oss i och sätter in vårt nya användarnamn samt med ett lösenord. Då börjar installationen.
 
@@ -35,18 +35,18 @@ För att använda ett operativsystem behöver vi program och applikationer att k
 
 Om det inte räcker med förinstallerade program kan vi installera nya genom en inbyggt applikationsbutik (som är GNOME Software i Ubuntu 19.04). **Butiken erbjuder hundratals applikationer inom flera olika kategorier, vi kan finna t.ex. media-spelare, produktivitetsverktyg, spel, samt grafikredigerare och många andra kategorier som man kan tänka på.**
 
-{{< image src="programvara_for_ubuntu.png" caption="Utbuden är bredd" >}}
+{{< image src="programvara_for_ubuntu.png" caption="Utbudet är brett" >}}
 
 Varje applikation i applikationsbutiken har sin egen sida med applikationens detaljer, bland annat **en kort beskrivning**, **skärmdumpar** och **recensioner från andra användare**. Detta gör det lättare för oss att få grundläggande information om applikationer och bestämma oss om vi verkligen vill installera enskilda applikationer eller inte.
 Sedan är det bara att klicka på knappen ”Installera” och vänta medan applikationen görs redo att användas.
 
 Det positiva med Ubuntu är att den innehåller **ganska nya versioner av mjukvarupaket**, vilket innebär att program inkluderade i systemet har alla viktiga säkerhetsuppdateringar och alla de senaste funktionerna.
 
-{{< image src="distrowatch.png" >}}
+{{< image src="distrowatch.png" caption="Paketversioner enligt DistroWatch.com" >}}
 
 Den här utgåvan av Ubuntu inled också **en av de senaste versionerna av Linuxkärnan** – det är versionen 5.0.0, vilken släpptes bara en och halv månad innan Ubuntu 19.04 kom ut! Igen, detta ska  garantera (eller åtminstone ”göra mer liknande” :-)) maximalt kompatibilitet av operativsystemet med den senaste hårdvaran osv.
 
-{{< image src="kernel_version.png" caption="Kernel-versionen är 5.0.0 här" >}}
+{{< image src="kernel_version.png" caption="Kernel-versionen är 5.0.0 i Ubuntu 19.04" >}}
 
 ## Anpassa Ubuntu som du vill
 Förinstallerade program och verktyg gör det möjligt att förvalta systemet genom det grafiska gränssnittet – man behöver inte att mixtra med kommandotolken för att anpassa systemet (men det är fortfarande en möjlighet för dig som vill).
@@ -68,7 +68,7 @@ Det säkert går att anpassa användargränssnitt vidare – eftersom Ubuntu 19.
 
 Ubuntu 19.04 är ett operativsystem som kan **lätt installeras, användas och förvaltas**. Jag rekommenderar det till alla som bara vill ha ett bra-funkande operativsystem utan att oroa sig över datorvirus eller liknande hot som är frekventa på Windows. Och som en stor bonus – man kan hämta det helt gratis.
 
-En nackdel för oss som föredrar fri mjukvara (*”fri som i frihet”*) kan vara faktumet att många verktyg som ingår och drivrutiner som installeras genom Ubuntus drivrutinshanterare är proprietära och det är inte lätt att göra av med dem.  
+En nackdel för oss som föredrar [fri mjukvara](https://www.gnu.org/philosophy/free-sw.sv.html) (*”fri som i frihet”*) kan vara faktumet att många verktyg som ingår och drivrutiner som installeras genom Ubuntus drivrutinshanterare är proprietära och det är inte lätt att göra av med dem.  
 *Men ändå måste vi ta in hänsyn att det är inte Ubuntus mål att eliminera proprietär mjukvara, utan att försörja en lättanvändbar miljö för alla användare (även för dem som är inte ”tekniskt-kunniga”). Ubuntu gör sitt jobb bra.*
 
 {{< image src="splash.png" caption="Bootskärmen" >}}
