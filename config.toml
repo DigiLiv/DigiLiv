@@ -1,6 +1,6 @@
 baseURL = "https://digiliv.se/"
 languageCode = "sv-SE"
-title = "DigiLiv"
+title = "DigiLiv – allt nytt i våra digitala liv"
 theme = "digiliv"
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
@@ -18,3 +18,4 @@ preserveTaxonomyNames = true
 [params]
   facebookUsername="digiliv"
   twitterUsername="digilivse"
+  slogan="allt nytt i våra digitala liv"

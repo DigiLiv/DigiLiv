@@ -82,14 +82,18 @@
 }
 
 .claim {
-    width: 512px;
-    height: 18px;
-
     margin-top: 16px;
 
-    background-image: url(../img/digiliv_claim.svg);
+    opacity: 0.4;
 
-    @extend %text-hidden;
+    color: white;
+
+    font-family: ChessType, sans-serif;
+    font-size: 1.5em;
+
+    text-align: center;
+    text-decoration: none;
+    text-transform: lowercase;
 }
 
 .art-heading {
