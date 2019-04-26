@@ -49,7 +49,7 @@ Den här utgåvan av Ubuntu inled också **en av de senaste versionerna av Linux
 {{< image src="kernel_version.png" caption="Kernel-versionen är 5.0.0 i Ubuntu 19.04" >}}
 
 ## Anpassa Ubuntu som du vill
-Förinstallerade program och verktyg gör det möjligt att förvalta systemet genom det grafiska gränssnittet – man behöver inte att mixtra med kommandotolken för att anpassa systemet (men det är fortfarande en möjlighet för dig som vill).
+Förinstallerade program och verktyg gör det möjligt att förvalta systemet genom det grafiska gränssnittet – man behöver inte mixtra med kommandotolken för att anpassa systemet (men det är fortfarande en möjlighet för dig som vill).
 
 Det är lätt att ändra många olika systeminställningar genom **ett unifierat inställningscentrum** där kan vi ändra inställningar inom flera kategorier under ett enda tak. Därvid kan vi slå på/av trädlösa enheter, anpassa skrivbordet och skärminställningar, ansluta våra online konto eller liknande.
 
@@ -69,7 +69,7 @@ Det säkert går att anpassa användargränssnitt vidare – eftersom Ubuntu 19.
 Ubuntu 19.04 är ett operativsystem som kan **lätt installeras, användas och förvaltas**. Jag rekommenderar det till alla som bara vill ha ett bra-funkande operativsystem utan att oroa sig över datorvirus eller liknande hot som är frekventa på Windows. Och som en stor bonus – man kan hämta det helt gratis.
 
 En nackdel för oss som föredrar [fri mjukvara](https://www.gnu.org/philosophy/free-sw.sv.html) (*”fri som i frihet”*) kan vara faktumet att många verktyg som ingår och drivrutiner som installeras genom Ubuntus drivrutinshanterare är proprietära och det är inte lätt att göra av med dem.  
-*Men ändå måste vi ta in hänsyn att det är inte Ubuntus mål att eliminera proprietär mjukvara, utan att försörja en lättanvändbar miljö för alla användare (även för dem som är inte ”tekniskt-kunniga”). Ubuntu gör sitt jobb bra.*
+*Men ändå måste vi ta hänsyn till att det är inte Ubuntus mål att eliminera proprietär mjukvara, utan att försörja en lättanvändbar miljö för alla användare (även för dem som är inte ”tekniskt-kunniga”). Ubuntu gör sitt jobb bra.*
 
 {{< image src="splash.png" caption="Bootskärmen" >}}
 
