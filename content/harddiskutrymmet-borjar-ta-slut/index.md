@@ -1,7 +1,6 @@
 ---
 title: "Hårddiskutrymmet börjar ta slut? Ta reda på varför!"
 date: 2019-04-27T9:25:46+01:00
-draft: true
 kategori:
     - tips
     - linux
