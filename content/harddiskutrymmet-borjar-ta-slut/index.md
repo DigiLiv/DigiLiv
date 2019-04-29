@@ -46,7 +46,7 @@ Mycket bättre, eller? Om det inte räcker att ha översikt på filernas/mapparn
 
 {{< image src="ncdu.png" caption="Visuell tolkning av mapparnas storlek med ncdu" >}}
 
-Listan över mappar är också **sorterad efter storlek som standard**. På detta viss kan man lätt identifiera vilka är filerna som tar upp mest utrymme inom den ursprungliga mappen. Man kan även radera valda mappar direkt i appen genom en enda tangenttryckning.
+Listan över mappar är också **sorterad efter storlek som standard**. På detta vis kan man lätt identifiera vilka är filerna som tar upp mest utrymme inom den ursprungliga mappen. Man kan även radera valda mappar direkt i appen genom en enda tangenttryckning.
 
 ## Fler utrymme för din data
 
