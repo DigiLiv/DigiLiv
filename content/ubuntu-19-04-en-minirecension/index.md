@@ -51,7 +51,7 @@ Den här utgåvan av Ubuntu inled också **en av de senaste versionerna av Linux
 ## Anpassa Ubuntu som du vill
 Förinstallerade program och verktyg gör det möjligt att förvalta systemet genom det grafiska gränssnittet – man behöver inte mixtra med kommandotolken för att anpassa systemet (men det är fortfarande en möjlighet för dig som vill).
 
-Det är lätt att ändra många olika systeminställningar genom **ett unifierat inställningscentrum** där vi kan ändra inställningar inom flera kategorier under ett enda tak. Därvid kan vi slå på/av trädlösa enheter, anpassa skrivbordet och skärminställningar, ansluta våra online konto eller liknande.
+Det är lätt att ändra många olika systeminställningar genom **ett unifierat inställningscentrum** där vi kan ändra inställningar inom flera kategorier under ett enda tak. Därvid kan vi slå på/av trådlösa enheter, anpassa skrivbordet och skärminställningar, ansluta våra online konto eller liknande.
 
 {{< image src="installningar.png" >}}
 
