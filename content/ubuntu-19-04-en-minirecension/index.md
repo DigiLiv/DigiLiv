@@ -13,7 +13,7 @@ Ubuntu 19.04 släpptes ut den 18 april 2019. Du kan ladda ned den helt kostnadsf
 
 {{< image src="start_ubuntu.png" caption="Prova eller installera? Det är frågan :-)" >}}
 
-**Installeringsprocessen är riktigt snabbt och enkelt med Ubuntu 19.04.** Det har alltid varit så här, så inga överraskningar förekommer. Det är bara att välja ett språk, en tangentbordslayout och också vilken disk(er) ska Ubuntu installeras på. Sedan specificerar du vilken tidszon befinner vi oss i och sätter in vårt nya användarnamn samt med ett lösenord. Då börjar installationen.
+**Installeringsprocessen är riktigt snabbt och enkelt med Ubuntu 19.04.** Det har alltid varit så här, så inga överraskningar förekommer. Det är bara att välja ett språk, en tangentbordslayout och också vilken disk(er) ska Ubuntu installeras på. Sedan specificerar vi vilken tidszon befinner vi oss i och sätter in vårt nya användarnamn samt med ett lösenord. Då börjar installationen.
 
 {{< image src="installering.png" caption="Ubuntus filer kopieras till hårddisken" >}}
 
