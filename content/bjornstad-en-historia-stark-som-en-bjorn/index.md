@@ -5,7 +5,7 @@ kategori:
     - böcker
 ---
 
-Det är ju ovanlig att skriva om romaner och skönlitteratur på en teknisk blogg (detta låter bara malplacerad och kanske även galen – och det är precis därför jag kommer göra det :-)). Men med så kraftfull och spännande berättelse – *som Björnstad definitivt står för* – är det bara så att jag måste göra ett undantag och ge uttryck för mina tankar om denna känslomässiga bok (det var också den första boken som jag nånsin har läst på svenska – och jag är så jäkla glad att ha gjort så!).
+Det är ju ovanligt att skriva om romaner och skönlitteratur på en teknisk blogg (detta låter bara malplacerad och kanske även galen – och det är precis därför jag kommer göra det :-)). Men med så kraftfull och spännande berättelse – *som Björnstad definitivt står för* – är det bara så att jag måste göra ett undantag och ge uttryck för mina tankar om denna känslomässiga bok (det var också den första boken som jag nånsin har läst på svenska – och jag är så jäkla glad att ha gjort så!).
 
 *Kanske ska jag också tipsa er om en bra och tankeväckande volym att läsa och sedan fundera på.*
 
@@ -13,7 +13,7 @@ Det är ju ovanlig att skriva om romaner och skönlitteratur på en teknisk blog
 
 -----
 
-**Björnstad** är en roman skrivit av *Fredrik Backman* – och den handlar om en liten stad. En väldigt liten stad, som dessutom befinner sig mitt i en skog. En stad som *försöker bara att stå upp för sig själv*, eftersom den har ingen och inget att lita på (och dess borgares förakt mot större städer är nästan påtagligt). En stad där *alla känner sig som björnar*, för att de alla (okej, nästan alla, i alla fall – några hatar den, vilket är en viktig punkt här i handlingen, som en källa till mellanmänskliga konflikter) delar en passion – den enda passionen genom vilken kan staden göra sitt namn känt i världen. En djup passion för ett ordinärt idrott – *ishockey*.
+**Björnstad** är en roman skriven av *Fredrik Backman* – och den handlar om en liten stad. En väldigt liten stad, som dessutom befinner sig mitt i en skog. En stad som *försöker bara att stå upp för sig själv*, eftersom den har ingen och inget att lita på (och dess borgares förakt mot större städer är nästan påtagligt). En stad där *alla känner sig som björnar*, för att de alla (okej, nästan alla, i alla fall – några hatar den, vilket är en viktig punkt här i handlingen, som en källa till mellanmänskliga konflikter) delar en passion – den enda passionen genom vilken kan staden göra sitt namn känt i världen. En djup passion för ett ordinärt idrott – *ishockey*.
 
 Ishockey är det centrala ämnet i Björnstadarnas liv, eftersom den ger borgarna en chans att överleva (och som läsaren får veta under loppet av berättelsen, *det går verkligen  inte att leva i Björnstad, utan att bara överleva*) i en så avlägsen och gudsförgäten plats – ishockeyn tros vara viktig för ekonomin samt för människornas stolthet. Den är ett gudomligt ärende. Den betyder bara allt.
 
