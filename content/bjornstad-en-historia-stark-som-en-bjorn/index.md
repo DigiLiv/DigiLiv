@@ -40,7 +40,7 @@ Det är markant att **varenda karaktär i Björnstad har sin enskild personlighe
 
 Relationer bland Björnstads borgare är intrasslade i *en stor och komplicerad webb av vänskap, hat, ambitioner, svek, skuld, själviskhet, likgiltighet, idolisering*. 
 
-Det finns bara en enda sak som binder Björnstadarna samman – *det lovande junior-hockeylaget, vilken ses som en väg för Björnstad att stiga upp till landets rampljus*. Var som helst annat spelar inget roll alls. **Hockeyn är allt som är av betydelse. Det är otänkbart att förlora mot andra. Och inget rum kvar för människonatur.**
+Det finns bara en enda sak som binder Björnstadarna samman – *det lovande junior-hockeylaget, vilken ses som en väg för Björnstad att stiga upp till landets rampljus*. Vad som helst annat spelar inget roll alls. **Hockeyn är allt som är av betydelse. Det är otänkbart att förlora mot andra. Och inget rum kvar för människonatur.**
 
 Även när fruktansvärda saker sker, **det finns ingen att stå upp för dem som behöver stöd mest** – alla blundar och står upp bara för sina egna flyktiga ambitioner.
 
@@ -55,12 +55,12 @@ Bokens viktiga punkter (och frågor den därvid ställer) kan sammanfattas så h
 *Så orättvisa och hycklande alla och allt kan vara...*   
 *Som var redan sagt – alla slåss för sin egen skull bara.*
 
-Låter sentimentalt, men allt om denna bok är precis så här. Eftersom boken är en metafor i sig själv – den är ett fönster genom det kan vi beskåda just hur funkar det ofta bland människor, oavsett var än en sådan "*Björnstad*" befinner sig. **Björnstad kunde väl vara vilken by och stan som helst**, och det inte alls behöver att den är besatt av ishockey – utan av vad som helst som gör människor till slaver av falska känslor, vilka kan förgöra dem från insidan och förvandla dem till marionetter för sina egna kortsynta ambitioner och ego.
+Låter sentimentalt, men allt om denna bok är precis så här. Eftersom boken är en metafor i sig själv – den är ett fönster genom det kan vi beskåda just hur funkar det ofta bland människor, oavsett var än en sådan "*Björnstad*" befinner sig. **Björnstad kunde väl vara vilken by och stan som helst**, och det inte alls behöver att den är besatt av ishockey – utan av vad som helst som gör människor till slaver av falska känslor som kan förgöra dem från insidan och förvandla dem till marionetter för sina egna kortsynta ambitioner och ego.
 
 -----
 
 ## Borde du tacka ja till en läsarresa till Björnstad?
 
-Björnstad är i själva verket inte en roman passande för alla – men om du låt den fånga dig och suga dig in i en emotionell berättelse om människor, då är du in på en vild färd till **en historia som ska inte lämna dig orörd**.
+Björnstad är i själva verket inte en roman passande för alla – men om du låter den fånga dig och suga dig in i en emotionell berättelse om människor, då är du in på en vild färd till **en historia som ska inte lämna dig orörd**.
 
 Björnstad är inte en bra roman för att vila med under en helg, utan är det **ett förstoringsglas för att se in i människornas själar påverkade av småstadsmentaliteten**, som du kan titta genom – och jag kan garantera dig – du kommer inte att glömma det som du kommer att se, inom den närmaste framtiden.
