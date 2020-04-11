@@ -8,7 +8,7 @@ kategori:
 
 Nuförtiden har nästan alla sin egen webbsida – som föreställer en plats på nätet där kan man presentera sig och dela med sig av sina tankar. Vi har massor av olika möjligheter att skapa och styra en egen webbplats, ofta helt enkelt och billigt. Vi kan använda en specialiserad tjänst, som t.ex. [WordPress.com](https://wordpress.com/) eller vi kan också köra vår sida själva på en server (antingen vår egen server eller på ett webbhotell).
 
-Men vanligtvis är det inte konstnadsfritt. Trots att det inte ska bli så mycket (med små sidor, åtminstone), behöver vi fortfarande betala några pengar för hosting och möjligtvis vårt enskilda domännamn. **Men kan vi ha alla detta utan att spendera en enda krona på det?**
+Men vanligtvis är det inte kostnadsfritt. Trots att det inte ska bli så mycket (med små sidor, åtminstone), behöver vi fortfarande betala några pengar för hosting och möjligtvis vårt enskilda domännamn. **Men kan vi ha alla detta utan att spendera en enda krona på det?**
 
 ## Statiska webbsidor som ett alternativ till WordPress e.l.
 
